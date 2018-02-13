@@ -1,0 +1,113 @@
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game\The final Game\bin\Debug\The final Game.exe.config
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game\The final Game\bin\Debug\The final Game.exe
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game\The final Game\bin\Debug\The final Game.pdb
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game\The final Game\obj\Debug\The final Game.csprojResolveAssemblyReference.cache
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game\The final Game\obj\Debug\The_final_Game.Form1.resources
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game\The final Game\obj\Debug\The_final_Game.Properties.Resources.resources
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game\The final Game\obj\Debug\The final Game.csproj.GenerateResource.Cache
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game\The final Game\obj\Debug\The final Game.exe
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game\The final Game\obj\Debug\The final Game.pdb
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game - Copy\The final Game\bin\Debug\The final Game.exe.config
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game - Copy\The final Game\obj\Debug\The final Game.exe
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game - Copy\The final Game\obj\Debug\The final Game.pdb
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game - Copy\The final Game\bin\Debug\The final Game.exe
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game - Copy\The final Game\bin\Debug\The final Game.pdb
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game - Copy\The final Game\obj\Debug\The final Game.csprojResolveAssemblyReference.cache
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game - Copy\The final Game\obj\Debug\The_final_Game.Form1.resources
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game - Copy\The final Game\obj\Debug\The_final_Game.Properties.Resources.resources
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\The final Game - Copy\The final Game\obj\Debug\The final Game.csproj.GenerateResource.Cache
+D:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\bin\Debug\The final Game.exe.config
+D:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\obj\Debug\The final Game.exe
+D:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\obj\Debug\The final Game.pdb
+D:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\bin\Debug\The final Game.exe
+D:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\bin\Debug\The final Game.pdb
+D:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\obj\Debug\The final Game.csprojResolveAssemblyReference.cache
+D:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\obj\Debug\The_final_Game.Form1.resources
+D:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\obj\Debug\The_final_Game.Properties.Resources.resources
+D:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\obj\Debug\The final Game.csproj.GenerateResource.Cache
+C:\Users\qxxnn\Desktop\The final Game - Copy111111111\The final Game\obj\Debug\The final Game.csprojResolveAssemblyReference.cache
+C:\Users\qxxnn\Desktop\The final Game - Copy111111111\The final Game\obj\Debug\The_final_Game.Form1.resources
+C:\Users\qxxnn\Desktop\The final Game - Copy111111111\The final Game\obj\Debug\The_final_Game.Properties.Resources.resources
+C:\Users\qxxnn\Desktop\The final Game - Copy111111111\The final Game\obj\Debug\The final Game.csproj.GenerateResource.Cache
+C:\Users\qxxnn\Desktop\The final Game - Copy111111111\The final Game\obj\Debug\The final Game.csproj.CoreCompileInputs.cache
+C:\Users\qxxnn\Desktop\The final Game - Copy111111111\The final Game\obj\Debug\The final Game.exe
+C:\Users\qxxnn\Desktop\The final Game - Copy111111111\The final Game\obj\Debug\The final Game.pdb
+C:\Users\qxxnn\Desktop\The final Game - Copy111111111\The final Game\bin\Debug\The final Game.exe.config
+C:\Users\qxxnn\Desktop\The final Game - Copy111111111\The final Game\bin\Debug\The final Game.exe
+C:\Users\qxxnn\Desktop\The final Game - Copy111111111\The final Game\bin\Debug\The final Game.pdb
+G:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\bin\Debug\The final Game.exe.config
+G:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\bin\Debug\The final Game.exe
+G:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\bin\Debug\The final Game.pdb
+G:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\obj\Debug\The final Game.csprojResolveAssemblyReference.cache
+G:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\obj\Debug\The_final_Game.Form1.resources
+G:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\obj\Debug\The_final_Game.Properties.Resources.resources
+G:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\obj\Debug\The final Game.csproj.GenerateResource.Cache
+G:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\obj\Debug\The final Game.csproj.CoreCompileInputs.cache
+G:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\obj\Debug\The final Game.exe
+G:\超级无敌之是男人就下一百层之最后作业\The final Game - Copy111111111\The final Game\obj\Debug\The final Game.pdb
+D:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\bin\Debug\The final Game.exe.config
+D:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\obj\Debug\The final Game.exe
+D:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\obj\Debug\The final Game.pdb
+D:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\bin\Debug\The final Game.exe
+D:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\bin\Debug\The final Game.pdb
+D:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\obj\Debug\The final Game.csprojResolveAssemblyReference.cache
+D:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\obj\Debug\The_final_Game.Form1.resources
+D:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\obj\Debug\The_final_Game.Properties.Resources.resources
+D:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\obj\Debug\The final Game.csproj.GenerateResource.Cache
+G:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\bin\Debug\The final Game.exe.config
+G:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\bin\Debug\The final Game.exe
+G:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\bin\Debug\The final Game.pdb
+G:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\obj\Debug\The final Game.csprojResolveAssemblyReference.cache
+G:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\obj\Debug\The_final_Game.Form1.resources
+G:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\obj\Debug\The_final_Game.Properties.Resources.resources
+G:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\obj\Debug\The final Game.csproj.GenerateResource.Cache
+G:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\obj\Debug\The final Game.csproj.CoreCompileInputs.cache
+G:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\obj\Debug\The final Game.exe
+G:\超级无敌之是男人就下一百层之最后作业\究极无敌保存版 - Copy\The final Game\obj\Debug\The final Game.pdb
+C:\Users\qxxnn\Desktop\究极无敌保存版 - Copy\The final Game\bin\Debug\The final Game.exe.config
+C:\Users\qxxnn\Desktop\究极无敌保存版 - Copy\The final Game\bin\Debug\The final Game.exe
+C:\Users\qxxnn\Desktop\究极无敌保存版 - Copy\The final Game\bin\Debug\The final Game.pdb
+C:\Users\qxxnn\Desktop\究极无敌保存版 - Copy\The final Game\obj\Debug\The final Game.csprojResolveAssemblyReference.cache
+C:\Users\qxxnn\Desktop\究极无敌保存版 - Copy\The final Game\obj\Debug\The_final_Game.Form1.resources
+C:\Users\qxxnn\Desktop\究极无敌保存版 - Copy\The final Game\obj\Debug\The_final_Game.Properties.Resources.resources
+C:\Users\qxxnn\Desktop\究极无敌保存版 - Copy\The final Game\obj\Debug\The final Game.csproj.GenerateResource.Cache
+C:\Users\qxxnn\Desktop\究极无敌保存版 - Copy\The final Game\obj\Debug\The final Game.csproj.CoreCompileInputs.cache
+C:\Users\qxxnn\Desktop\究极无敌保存版 - Copy\The final Game\obj\Debug\The final Game.exe
+C:\Users\qxxnn\Desktop\究极无敌保存版 - Copy\The final Game\obj\Debug\The final Game.pdb
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\究极无敌保存版\The final Game\bin\Debug\The final Game.exe.config
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\究极无敌保存版\The final Game\obj\Debug\The final Game.exe
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\究极无敌保存版\The final Game\obj\Debug\The final Game.pdb
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\究极无敌保存版\The final Game\bin\Debug\The final Game.exe
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\究极无敌保存版\The final Game\bin\Debug\The final Game.pdb
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\究极无敌保存版\The final Game\obj\Debug\The final Game.csprojResolveAssemblyReference.cache
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\究极无敌保存版\The final Game\obj\Debug\The_final_Game.Form1.resources
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\究极无敌保存版\The final Game\obj\Debug\The_final_Game.Properties.Resources.resources
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\究极无敌保存版\The final Game\obj\Debug\The final Game.csproj.GenerateResource.Cache
+G:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\bin\Debug\The final Game.exe.config
+G:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\bin\Debug\The final Game.exe
+G:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\bin\Debug\The final Game.pdb
+G:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\obj\Debug\The final Game.csprojResolveAssemblyReference.cache
+G:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\obj\Debug\The_final_Game.Form1.resources
+G:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\obj\Debug\The_final_Game.Properties.Resources.resources
+G:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\obj\Debug\The final Game.csproj.GenerateResource.Cache
+G:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\obj\Debug\The final Game.csproj.CoreCompileInputs.cache
+G:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\obj\Debug\The final Game.exe
+G:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\obj\Debug\The final Game.pdb
+D:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\bin\Debug\The final Game.exe.config
+D:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\obj\Debug\The final Game.exe
+D:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\obj\Debug\The final Game.pdb
+D:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\bin\Debug\The final Game.exe
+D:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\bin\Debug\The final Game.pdb
+D:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\obj\Debug\The final Game.csprojResolveAssemblyReference.cache
+D:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\obj\Debug\The_final_Game.Form1.resources
+D:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\obj\Debug\The_final_Game.Properties.Resources.resources
+D:\超级无敌之是男人就下一百层之最后作业\Assignment 4\The final Game\obj\Debug\The final Game.csproj.GenerateResource.Cache
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\Assignment 4\The final Game\bin\Debug\The final Game.exe.config
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\Assignment 4\The final Game\obj\Debug\The final Game.exe
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\Assignment 4\The final Game\obj\Debug\The final Game.pdb
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\Assignment 4\The final Game\bin\Debug\The final Game.exe
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\Assignment 4\The final Game\bin\Debug\The final Game.pdb
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\Assignment 4\The final Game\obj\Debug\The final Game.csprojResolveAssemblyReference.cache
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\Assignment 4\The final Game\obj\Debug\The_final_Game.Form1.resources
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\Assignment 4\The final Game\obj\Debug\The_final_Game.Properties.Resources.resources
+\\homes.cms.waikato.ac.nz\people\ln46\win\Desktop\Assignment 4\The final Game\obj\Debug\The final Game.csproj.GenerateResource.Cache
